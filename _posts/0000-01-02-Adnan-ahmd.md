@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Welcome to our second slide in git hub"
 
 ---
 
-Your text
+This is my sample slide
 
 Use the left arrow to go back!
